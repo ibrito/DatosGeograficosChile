@@ -1,2 +1,2 @@
 # DatosGeograficosChile
-Data sobre organización territorial Regiones,Provincias,Comunas
+Data sobre organización territorial Regiones,Provincias,Comunas de CHILE
