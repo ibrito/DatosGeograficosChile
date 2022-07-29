@@ -1,5 +1,9 @@
 # <img src="https://github.com/ibrito/DatosGeograficosChile/blob/main/extras/geo-alt.svg" width="60" /> DatosGeograficosChile
-Data sobre organización territorial Regiones,Provincias,Comunas de CHILE
+Data sobre organización territorial Regiones,Provincias,Comunas de CHILE 2022
+
+-  [DB__Regiones_Provincias_Comunas_chile.sql :page_facing_up:](https://github.com/ibrito/DatosGeograficosChile/blob/main/DB__Regiones_Provincias_Comunas_chile.sql)
+-  [Modelo_Db-Regiones_Provincias_Comunas.mwb :triangular_ruler:](https://github.com/ibrito/DatosGeograficosChile/blob/main/Modelo_Db-Regiones_Provincias_Comunas.mwb)
+
 
 ## Estructura de Datos :clipboard:
 _La estructura de tablas es la siguiente, está formada por 3 tablas_
