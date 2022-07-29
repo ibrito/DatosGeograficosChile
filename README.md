@@ -1,4 +1,4 @@
-# DatosGeograficosChile
+# <img src="https://github.com/ibrito/DatosGeograficosChile/blob/main/extras/geo-alt.svg" width="60" /> DatosGeograficosChile
 Data sobre organización territorial Regiones,Provincias,Comunas de CHILE
 
 ## Estructura de Datos :clipboard:
@@ -11,6 +11,9 @@ _La estructura de tablas es la siguiente, está formada por 3 tablas_
   >Contiene los datos de las Comunas de Chile y se relaciona con la Tabla de Provincias
 
 ![Image text](https://github.com/ibrito/DatosGeograficosChile/blob/main/extras/DB_RegionesProvinciasComunas_chile.png)
+
+
+
 
 
 
